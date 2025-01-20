@@ -1,4 +1,4 @@
-# 6-Joins-and-Union
+# Joins And Union
 ## This explains how to perform JOIN and UNION operations between the Country and Persons tables.
 
 ### Country Table:
